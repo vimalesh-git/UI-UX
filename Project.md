@@ -2,8 +2,6 @@
 
 # BrainBender - Self Improvement App 🎯  
 
-![BrainBender Cover](image.png)  
-
 ## 📌 Overview  
 BrainBender is a **self-improvement mobile app** designed using **Figma**. It focuses on **personal growth** by providing users with engaging content and structured learning experiences.  
 
@@ -21,7 +19,7 @@ The design includes **8-9 key screens**, covering:
 ✅ **Learning Dashboard**  
 
 ## 🔗 Live Preview  
-[View on Behance](your_behance_link_here)  
+[[View on Behance](https://www.behance.net/gallery/204345029/BrainBender-App-Design)]  
 
 ## 📂 Files Included  
 - **Figma Prototype Link**  
@@ -29,11 +27,10 @@ The design includes **8-9 key screens**, covering:
 - **Design Overview PDF**  
 
 ## 🛠️ Tools Used  
-- **Figma** – UI/UX Design & Prototyping  
-- **Adobe Photoshop & Lightroom** – Image Editing  
+- **Figma** – UI/UX Design & Prototyping   
 
 ---
 
 🔹 Designed by **Vimalesh V.**  
 🌟 Passionate about **UI/UX & Graphic Design**  
-📬 **Contact:** [Your Email or Portfolio Link]
+📬 **Contact:** [vimaleshvenkatachalam1@gmail.com]
